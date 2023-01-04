@@ -7,7 +7,7 @@ Web Developer
 Web developer specialized in clean designs and responsiveness with high functionality.
 
 * 🌍  I'm based in Albania
-* ✉️  You can contact me at [darioberberi11@gmail.com](mailto:darioberberi11@gmail.com)
+* ✉️  You can contact me at [darioberberidev@gmail.com](mailto:darioberberidev@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on web development projects
 
